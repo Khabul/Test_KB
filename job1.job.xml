@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<job  title="Test job">
+    <script  language="shell">
+        <![CDATA[
+echo "Hello Khabul"
+        ]]>
+    </script>
+
+    <run_time />
+</job>
